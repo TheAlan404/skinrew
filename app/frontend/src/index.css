@@ -1,0 +1,7 @@
+.pixelated {
+    image-rendering: pixelated;
+}
+
+.hoverable:hover {
+    background-color: var(--mantine-color-dark-8);
+}
